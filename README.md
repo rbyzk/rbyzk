@@ -18,6 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&locale=en" alt="rbyzk" /></p>
 
-https://github.com/rbyzk/rbyzk/blob/output/github-contribution-grid-snake.gif
 
 ![snake gif](https://github.com/rbyzk/rbyzk/blob/output/github-contribution-grid-snake.gif)
