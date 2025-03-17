@@ -7,7 +7,7 @@ on:
   schedule:
     # every 6 hours
     - cron: "0 */6 * * *"
-  # This command allows us to run the Action automatically from the Actions tab.
+  # This command allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
@@ -19,27 +19,22 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      # Checks out the repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Generates the snake  
+      # Generates the snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: rbyzk
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build. Makes it easier for debugging (if there's any issues).
+      # Show the status of the build for debugging (if there's any issues)
       - run: git status
 
-      # Push the changes
+      # Push the changes to the output branch
       - name: Push changes
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
