@@ -26,11 +26,11 @@
 </div>
 
 ---
+
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rbyzk&icon=1&color=1" alt="visit count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-rbyzke&color=blue" alt="Profile Views" />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
