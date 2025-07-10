@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🎯 A passionate learner, taking my first steps into the world of programming and technology.<br>🌱 Currently learning [e.g., Python, SQL, Machine Learning] and exploring foundational concepts.<br>📌 I use GitHub to document my journey, share projects, and track my growth over time.<br>♻️ Every day is a new opportunity to learn and apply my skills to small but meaningful projects.<br>🤝 I'm open to collaborating with others and exchanging knowledge to grow together.<br>💬 Feel free to reach out if you'd like to discuss coding, projects, or learning experiences!
+👩‍💻 Data Scientist & Data Analyst passionate about building interpretable and impactful ML/DL solutions.<br>📊 Skilled in supervised modeling, feature engineering, and explainable AI (SHAP, visual analytics).<br>📚 Active on Kaggle, with published projects in healthcare, anthropometry, and computer vision.<br>♻️ 🌱 Always learning — exploring new tools, refining insights, and sharing knowledge through clean, reproducible code.<br>🤝 I'm open to collaborating with others and exchanging knowledge to grow together.<br>💬 Feel free to reach out if you'd like to discuss coding, projects, or learning experiences!
 
 
 ## 💻 Tech Stack:
