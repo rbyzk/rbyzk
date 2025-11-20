@@ -17,12 +17,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 👩‍💻 **Data Scientist & Analyst** passionate about interpretable ML/DL solutions
-- 📊 Specialized in **supervised modeling**, **feature engineering**, and **explainable AI** (SHAP, visual analytics)
-- 🏆 Active on **Kaggle** with published projects in healthcare, anthropometry, and computer vision
-- 🌱 Currently exploring advanced deep learning architectures and MLOps
-- 🤝 Open to collaboration and knowledge sharing
-- 💬 Ask me about **Python**, **Machine Learning**, **Data Visualization**, or **Statistics**
+- 👩‍💻 Data Scientist & ML/DL Engineer focused on **interpretable and production-ready models**
+- 📊 Experienced in **supervised learning**, **feature engineering**, and **explainable AI** (SHAP, model diagnostics, visual analytics)
+- 🏥 Domain exposure across **healthcare**, **anthropometry**, and **computer vision** with published **Kaggle** work
+- 🧠 Interested in **model robustness**, **fairness**, and **human-centered ML**
+- 🌱 Exploring **advanced deep learning architectures** and **MLOps** best practices
+- 🤝 Open to collaborating on **data-driven products**, **research prototypes**, and **end-to-end ML pipelines**
+- 💬 Happy to talk about **Python, ML, DL, Data Visualization, Statistics** and **experiment design**
 
 <br clear="right"/>
 
@@ -41,9 +42,9 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 📊 Data Visualization & BI
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🗄️ Databases
@@ -68,8 +69,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=41b883&icon_color=41b883&text_color=2c3e50&border_color=e5e7eb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=8&theme=vue&hide_border=false&bg_color=ffffff&title_color=41b883&text_color=2c3e50&border_color=e5e7eb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=41b883&icon_color=41b883&text_color=2c3e50&border_color=e5e7eb" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=8&theme=vue&hide_border=false&bg_color=ffffff&title_color=41b883&text_color=2c3e50&border_color=e5e7eb" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -83,6 +84,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=rbyzk&no-frame=false&no-bg=true&margin-w=4"
@@ -107,7 +109,7 @@
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote" />
 </div>
 
 ---
@@ -117,5 +119,5 @@
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/rbyzk">rbyzk</a> - Let's collaborate and create something amazing!</i>
+  <i>⭐️ From <a href="https://github.com/rbyzk">rbyzk</a> – let's collaborate and build interpretable, impactful ML solutions.</i>
 </div>
