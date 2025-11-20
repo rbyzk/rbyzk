@@ -1,35 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20There!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6E40C9&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML%2FDL+Engineer;Passionate+About+Explainable+AI;Building+Interpretable+Solutions;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=B794F6&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML%2FDL+Engineer;Passionate+About+Explainable+AI;Building+Interpretable+Solutions;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=B794F6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=B794F6" alt="Followers" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Data Scientist & Analyst"
-        self.language_spoken = ["tr_TR", "en_US"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = DataScientist()
-me.say_hi()
-```
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 👩‍💻 **Data Scientist & Analyst** passionate about interpretable ML/DL solutions
 - 📊 Specialized in **supervised modeling**, **feature engineering**, and **explainable AI** (SHAP, visual analytics)
@@ -37,6 +23,8 @@ me.say_hi()
 - 🌱 Currently exploring advanced deep learning architectures and MLOps
 - 🤝 Open to collaboration and knowledge sharing
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Visualization**, or **Statistics**
+
+<br clear="right"/>
 
 ---
 
@@ -80,16 +68,16 @@ me.say_hi()
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=41b883&icon_color=41b883&text_color=2c3e50&border_color=e5e7eb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=8&theme=vue&hide_border=false&bg_color=ffffff&title_color=41b883&text_color=2c3e50&border_color=e5e7eb"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rbyzk&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbyzk&theme=vue&hide_border=false&background=ffffff&stroke=e5e7eb&ring=41b883&fire=ff6b6b&currStreakLabel=2c3e50&sideLabels=41b883&currStreakNum=2c3e50&sideNums=2c3e50&dates=2c3e50" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&custom_title=Contribution%20Graph&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&custom_title=Contribution%20Graph&theme=github-light&bg_color=ffffff&color=41b883&line=41b883&point=ff6b6b&area_color=41b883&area=true&hide_border=false" alt="Contribution Graph" />
 </div>
 
 ---
@@ -97,7 +85,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rbyzk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rbyzk&theme=flat&no-frame=false&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -117,26 +105,13 @@ me.say_hi()
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_bg=0D1117" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
 </div>
 
 <div align="center">
