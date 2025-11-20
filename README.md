@@ -1,12 +1,108 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20There!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6E40C9&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML%2FDL+Engineer;Passionate+About+Explainable+AI;Building+Interpretable+Solutions;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+</div>
 
-## 💫 About Me:
-👩‍💻 Data Scientist & Data Analyst passionate about building interpretable and impactful ML/DL solutions.<br>📊 Skilled in supervised modeling, feature engineering, and explainable AI (SHAP, visual analytics).<br>📚 Active on Kaggle, with published projects in healthcare, anthropometry, and computer vision.<br>🌱 Always learning — exploring new tools, refining insights, and sharing knowledge through clean, reproducible code.<br>🤝 I'm open to collaborating with others and exchanging knowledge to grow together.<br>💬 Feel free to reach out if you'd like to discuss coding, projects, or learning experiences!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+</p>
 
+---
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Power Bi](https://img.shields.io/badge/Power_bi-F2C811?style=flat-square&logo=Powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%234285F4.svg?style=flat-square&logo=google-tableau&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Autocad](https://img.shields.io/badge/Autocad-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Revit](https://img.shields.io/badge/Revit-801010?style=flat-square&logo=revit&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)  
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Data Scientist & Analyst"
+        self.language_spoken = ["tr_TR", "en_US"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = DataScientist()
+me.say_hi()
+```
+
+- 👩‍💻 **Data Scientist & Analyst** passionate about interpretable ML/DL solutions
+- 📊 Specialized in **supervised modeling**, **feature engineering**, and **explainable AI** (SHAP, visual analytics)
+- 🏆 Active on **Kaggle** with published projects in healthcare, anthropometry, and computer vision
+- 🌱 Currently exploring advanced deep learning architectures and MLOps
+- 🤝 Open to collaboration and knowledge sharing
+- 💬 Ask me about **Python**, **Machine Learning**, **Data Visualization**, or **Statistics**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 📊 Data Visualization & BI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design & Creative Tools
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🔧 Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rbyzk&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&custom_title=Contribution%20Graph&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rbyzk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -16,30 +112,24 @@
   </picture>
 </div>
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbyzk&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rbyzk&theme=buefy&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rbyzk&theme=buefy&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+## 💭 Dev Quote of the Day
 
-### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_bg=0D1117" />
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-rbyzke&color=blue" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
 
-
-
-
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/rbyzk">rbyzk</a> - Let's collaborate and create something amazing!</i>
+</div>
