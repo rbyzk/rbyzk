@@ -1,26 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Beyza%20Küçük&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=e94560&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=20&descAlignY=58&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Beyza%20Küçük&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=20&descAlignY=58&descColor=f8f0ff" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=E94560&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+actionable+insights;Explainable+AI+%7C+SHAP+%7C+Model+Diagnostics;Statistical+Thinking+%2B+Visual+Storytelling;Healthcare+%7C+Computer+Vision+%7C+Kaggle+Notebooks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+actionable+insights;Explainable+AI+%7C+SHAP+%7C+Model+Diagnostics;Statistical+Thinking+%2B+Visual+Storytelling;Healthcare+%7C+Computer+Vision+%7C+Kaggle+Notebooks" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://www.kaggle.com/beyzakucuk">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=e94560&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=e94560" />
+  <a href="https://public.tableau.com/app/profile/beyza.k.k/vizzes">
+    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=9B59B6&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=9B59B6" />
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
 
 I'm a **Data Analyst & Data Scientist** who transforms complex datasets into clear, interpretable insights. My work lives at the intersection of rigorous analysis, explainable machine learning, and compelling visual storytelling.
 
@@ -40,7 +43,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 ### 🐍 Core Languages & Data Science
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-7B68EE?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
@@ -51,14 +54,14 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-9B59B6?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
 ### 📊 Data Visualization & BI
 <div>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-764ba2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-7B68EE?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -93,7 +96,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 
 ## 📌 Featured Kaggle Notebooks
 
-> Notebooks focused on real-world problems with emphasis on interpretability and storytelling
+> Real-world projects with a strong focus on interpretability and storytelling
 
 | Notebook | Topic | Votes |
 |---|---|---|
@@ -108,19 +111,36 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 
 ---
 
+## 📊 Tableau Public Dashboards
+
+> Interactive dashboards built for business insights and visual storytelling
+
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/beyza.k.k/vizzes">
+    <img src="https://img.shields.io/badge/🔗_View_All_Dashboards_on_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</div>
+
+| Dashboard | Views |
+|---|---|
+| 📉 [Telco Churn Analysis \| Lifecycle, Risk & Value Segmentation](https://public.tableau.com/app/profile/beyza.k.k/vizzes) | 👁️ 17.5K+ |
+| 🛒 [Olist Marketplace Dashboard: Brazil's E-Commerce Landscape](https://public.tableau.com/app/profile/beyza.k.k/vizzes) | 👁️ 399 |
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=9B59B6&icon_color=764ba2&text_color=555" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=9B59B6&text_color=555" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbyzk&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbyzk&theme=buefy&hide_border=true&ring=9B59B6&fire=f093fb&currStreakLabel=764ba2" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&theme=github&hide_border=true&area=true&color=9B59B6&line=764ba2&point=f093fb" />
 </div>
 
 ---
@@ -138,7 +158,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=100&section=footer" />
 </div>
 
 <div align="center">
