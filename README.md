@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 I'm a **Data Analyst & Data Scientist** who transforms complex datasets into clear, interpretable insights. My work lives at the intersection of rigorous analysis, explainable machine learning, and compelling visual storytelling.
 
@@ -111,20 +111,15 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 
 ---
 
-## 📊 Tableau Public Dashboards
-
-> Interactive dashboards built for business insights and visual storytelling
+## 📊 Featured Tableau Dashboard
 
 <div align="center">
-  <a href="https://public.tableau.com/app/profile/beyza.k.k/vizzes">
-    <img src="https://img.shields.io/badge/🔗_View_All_Dashboards_on_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
-</div>
 
-| Dashboard | Views |
-|---|---|
-| 📉 [Telco Churn Analysis \| Lifecycle, Risk & Value Segmentation](https://public.tableau.com/app/profile/beyza.k.k/vizzes) | 👁️ 17.5K+ |
-| 🛒 [Olist Marketplace Dashboard: Brazil's E-Commerce Landscape](https://public.tableau.com/app/profile/beyza.k.k/vizzes) | 👁️ 399 |
+[![Telco Churn Dashboard](https://img.shields.io/badge/📉_Telco_Churn_Analysis_|_Lifecycle,_Risk_&_Value_Segmentation-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/beyza.k.k/vizzes)
+
+👁️ **17.5K+ views** — Customer lifecycle segmentation, churn risk scoring & revenue impact analysis
+
+</div>
 
 ---
 
@@ -153,6 +148,17 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbyzk/rbyzk/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/rbyzk/rbyzk/output/github-snake.svg" />
   </picture>
+</div>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+
+*"Without data, you're just another person with an opinion."*
+— W. Edwards Deming
+
 </div>
 
 ---
