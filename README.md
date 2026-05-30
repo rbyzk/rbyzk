@@ -1,84 +1,126 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Beyza%20Küçük&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=e94560&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=20&descAlignY=58&descColor=a8b2d8" />
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=B794F6&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML%2FDL+Engineer;Passionate+About+Explainable+AI;Building+Interpretable+Solutions;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=E94560&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+actionable+insights;Explainable+AI+%7C+SHAP+%7C+Model+Diagnostics;Statistical+Thinking+%2B+Visual+Storytelling;Healthcare+%7C+Computer+Vision+%7C+Kaggle+Notebooks" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=B794F6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=B794F6" alt="Followers" />
-</p>
+<div align="center">
+  <a href="https://www.kaggle.com/beyzakucuk">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rbyzk&color=e94560&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/rbyzk?label=Followers&style=flat-square&color=e94560" />
+</div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 👩‍💻 Data Scientist & ML/DL Engineer focused on **interpretable and production-ready models**
-- 📊 Experienced in **supervised learning**, **feature engineering**, and **explainable AI** (SHAP, model diagnostics, visual analytics)
-- 🏥 Domain exposure across **healthcare**, **anthropometry**, and **computer vision** with published **Kaggle** work
-- 🧠 Interested in **model robustness**, **fairness**, and **human-centered ML**
-- 🌱 Exploring **advanced deep learning architectures** and **MLOps** best practices
-- 🤝 Open to collaborating on **data-driven products**, **research prototypes**, and **end-to-end ML pipelines**
-- 💬 Happy to talk about **Python, ML, DL, Data Visualization, Statistics** and **experiment design**
+I'm a **Data Analyst & Data Scientist** who transforms complex datasets into clear, interpretable insights. My work lives at the intersection of rigorous analysis, explainable machine learning, and compelling visual storytelling.
+
+- 📊 Specialized in **exploratory data analysis**, **feature engineering**, and **statistical modeling**
+- 🔍 Deep focus on **Explainable AI** — SHAP values, model diagnostics, bias & fairness analysis
+- 🏥 Applied projects in **healthcare**, **anthropometry**, and **computer vision** (published on Kaggle)
+- 📖 Believer in **data storytelling** — insights only matter if they're communicated well
+- 🤝 Open to collaborating on **analytical projects**, **research**, and **end-to-end ML pipelines**
+- 💬 Ask me about: **Python · SQL · EDA · Data Viz · Statistics · Supervised Learning**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🐍 Core Languages & Data Science
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</div>
 
-### 💻 Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+### 🤖 Machine Learning & AI
+<div>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</div>
 
 ### 📊 Data Visualization & BI
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<div>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</div>
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Design & Creative Tools
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<div>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+</div>
 
 ### 🔧 Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
+<div>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
+
+### 🎨 Design & Storytelling
+<div>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</div>
+
+---
+
+## 📌 Featured Kaggle Notebooks
+
+> Notebooks focused on real-world problems with emphasis on interpretability and storytelling
+
+| Notebook | Topic | Votes |
+|---|---|---|
+| 🛡️ [AI-SAFE: PPE Detection with YOLOv8](https://www.kaggle.com/beyzakucuk) | Computer Vision | ⬆️ 71 |
+| 📦 [Amazon – Governance × Risk × Discovery](https://www.kaggle.com/beyzakucuk) | Business Analytics | ⬆️ 53 |
+| 😴 [Do You Sleep Well? A Data Story](https://www.kaggle.com/beyzakucuk) | Data Storytelling | ⬆️ 47 |
+| 🧠 [Tech Mental Health \| Who Gets Support?](https://www.kaggle.com/beyzakucuk) | Healthcare Analytics | ⬆️ 40 |
+| ❤️ [Heart Failure Prediction — Explainable ML](https://www.kaggle.com/beyzakucuk) | Explainable AI | ⬆️ 38 |
+| 🔬 [Ethnicity Prediction from Body Metrics - ANSUR II](https://www.kaggle.com/beyzakucuk) | ML + Anthropometry | ⬆️ 34 |
+| 🌿 [Leaf Disease Detection](https://www.kaggle.com/beyzakucuk) | Computer Vision | ⬆️ 34 |
+| 📡 [Telco Churn Intelligence – Risk · Value · Action](https://www.kaggle.com/beyzakucuk) | Business Analytics | ⬆️ 34 |
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=41b883&icon_color=41b883&text_color=2c3e50&border_color=e5e7eb" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=8&theme=vue&hide_border=false&bg_color=ffffff&title_color=41b883&text_color=2c3e50&border_color=e5e7eb" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbyzk&theme=vue&hide_border=false&background=ffffff&stroke=e5e7eb&ring=41b883&fire=ff6b6b&currStreakLabel=2c3e50&sideLabels=41b883&currStreakNum=2c3e50&sideNums=2c3e50&dates=2c3e50" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbyzk&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&custom_title=Contribution%20Graph&theme=github-light&bg_color=ffffff&color=41b883&line=41b883&point=ff6b6b&area_color=41b883&area=true&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -95,18 +137,10 @@
 
 ---
 
-## 💭 Dev Quote of the Day
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/rbyzk">rbyzk</a> – let's collaborate and build interpretable, impactful ML solutions.</i>
+  <i>⭐️ From <a href="https://github.com/rbyzk">rbyzk</a> — data tells a story; let's make it a good one.</i>
 </div>
