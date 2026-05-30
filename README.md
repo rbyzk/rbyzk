@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 I'm a **Data Analyst & Data Scientist** who transforms complex datasets into clear, interpretable insights. My work lives at the intersection of rigorous analysis, explainable machine learning, and compelling visual storytelling.
 
@@ -41,7 +41,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 ## 🛠️ Tech Stack
 
 ### 🐍 Core Languages & Data Science
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-7B68EE?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -50,7 +50,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 </div>
 
 ### 🤖 Machine Learning & AI
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white"/>
@@ -59,7 +59,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 </div>
 
 ### 📊 Data Visualization & BI
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Matplotlib-764ba2?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-7B68EE?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -68,14 +68,14 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 </div>
 
 ### 🗄️ Databases
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </div>
 
 ### 🔧 Tools & Environment
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -86,7 +86,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 </div>
 
 ### 🎨 Design & Storytelling
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -126,8 +126,8 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&title_color=764ba2&icon_color=9B59B6&text_color=444444&border_color=e0e0e0" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=6&theme=default&hide_border=false&title_color=764ba2&text_color=444444&border_color=e0e0e0" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rbyzk&show_icons=true&hide_border=false&title_color=764ba2&icon_color=9B59B6&text_color=444444&border_color=dddddd&bg_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyzk&layout=compact&langs_count=6&hide_border=false&title_color=764ba2&text_color=444444&border_color=dddddd&bg_color=ffffff" />
 </div>
 
 <div align="center">
