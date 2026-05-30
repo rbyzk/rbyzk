@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=I'm%20Beyza%20%7C%20Data%20Analyst%20%26%20Data%20Scientist&descSize=20&descAlignY=58&descColor=f8f0ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=60&fontAlignY=45&animation=fadeIn&fontColor=ffffff" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+actionable+insights;Explainable+AI+%7C+SHAP+%7C+Model+Diagnostics;Statistical+Thinking+%2B+Visual+Storytelling;Healthcare+%7C+Computer+Vision+%7C+Kaggle+Notebooks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=700&lines=I'm+Beyza+Küçük+%7C+Data+Analyst+%26+Scientist;Turning+raw+data+into+actionable+insights;Explainable+AI+%7C+SHAP+%7C+Model+Diagnostics;Statistical+Thinking+%2B+Visual+Storytelling;Healthcare+%7C+Computer+Vision+%7C+Kaggle+Notebooks" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 I'm a **Data Analyst & Data Scientist** who transforms complex datasets into clear, interpretable insights. My work lives at the intersection of rigorous analysis, explainable machine learning, and compelling visual storytelling.
 
@@ -135,7 +135,7 @@ I'm a **Data Analyst & Data Scientist** who transforms complex datasets into cle
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&theme=github&hide_border=true&area=true&color=9B59B6&line=764ba2&point=f093fb" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbyzk&theme=github-light&hide_border=true&area=true&color=9B59B6&line=764ba2&point=f093fb&bg_color=ffffff" />
 </div>
 
 ---
